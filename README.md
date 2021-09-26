@@ -39,3 +39,7 @@ Watch a 10 min intro from [aws.training](https://www.aws.training/Details/Video?
 Read this blog in
 [ictpro.co.nz](https://ictpro.co.nz/2021/09/26/an-intro-to-amazon-simple-notification-service-sns/)
 [dev.to](https://dev.to/aws-builders/amazon-simple-notification-service-sns-4gf7)
+|🔗 Links            |
+| ----------------- |
+|[ictpro.co.nz](https://ictpro.co.nz/2021/09/26/an-intro-to-amazon-simple-notification-service-sns/)|
+|[dev.to](https://dev.to/aws-builders/amazon-simple-notification-service-sns-4gf7)|
