@@ -36,7 +36,7 @@ Watch a 10 min intro from [aws.training](https://www.aws.training/Details/Video?
 |[CloudAcademy](https://cloudacademy.com/) | Amazon SNS Image Resizing Challenge|
 
 
-###Read this blog in
+### Read this blog in
 
 |🔗 Links            |
 | ----------------- |
